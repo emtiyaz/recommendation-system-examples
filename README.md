@@ -1,4 +1,3 @@
-<h1>An example of GP based recommendation system</h1>
+<h1>Examples of recommendation system</h1>
 
-In this example, I show a simple Gaussian Process based rating prediction
-system. Use [processMovielens100k.m](this) to extract the data.
+[recommend0.m](recommend0.m) implements a simple Gaussian Process based rating prediction system. Use [processMovielens100k.m](https://github.com/emtiyaz/recommedationDatasets/blob/master/processMovielens100k.m) to extract the data.
