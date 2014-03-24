@@ -1,0 +1,761 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils
+END
+mse.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/mse.m
+END
+shrink2para.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/shrink2para.m
+END
+mySoftmax.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/mySoftmax.m
+END
+cellfuncell.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/cellfuncell.m
+END
+iseven.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/iseven.m
+END
+process_options.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/process_options.m
+END
+removeRowsCols.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/removeRowsCols.m
+END
+covcond.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/covcond.m
+END
+getColorsRGB.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/getColorsRGB.m
+END
+getClasses.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/getClasses.m
+END
+pm1.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/pm1.m
+END
+convergenceTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/convergenceTest.m
+END
+isdiag.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/isdiag.m
+END
+gridSpace.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/gridSpace.m
+END
+addLightspeed.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/addLightspeed.m
+END
+trigamma.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/trigamma.m
+END
+mvtGammaln.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/mvtGammaln.m
+END
+nchoosekln.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/nchoosekln.m
+END
+statsToolboxInstalled.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/statsToolboxInstalled.m
+END
+compute_counts.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/compute_counts.m
+END
+makeDocumentation.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/makeDocumentation.m
+END
+suplabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/suplabel.m
+END
+mk_multi_index.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/mk_multi_index.m
+END
+randpd.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/randpd.m
+END
+checkIfSumsToOne.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/checkIfSumsToOne.m
+END
+assertKPM.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/assertKPM.m
+END
+parents.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/parents.m
+END
+splineBasis.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/splineBasis.m
+END
+cov2cor.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/cov2cor.m
+END
+mkUnitVariance.asv
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/mkUnitVariance.asv
+END
+myMultNormPdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/myMultNormPdf.m
+END
+check01.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/check01.m
+END
+softeye.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/softeye.m
+END
+partitionDataset.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/partitionDataset.m
+END
+neighbors.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/neighbors.m
+END
+viewClassTree.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/viewClassTree.m
+END
+sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/sample.m
+END
+useStatsToolbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/useStatsToolbox.m
+END
+logsumexp.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/logsumexp.m
+END
+dem2ddat.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/dem2ddat.m
+END
+genRunDemos.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/genRunDemos.m
+END
+my_softmax.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/my_softmax.m
+END
+acf.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/acf.m
+END
+covType.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/covType.m
+END
+crossProduct.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/crossProduct.m
+END
+makeRunDemos.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/makeRunDemos.m
+END
+mysetdiff.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/mysetdiff.m
+END
+checkPM1.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/checkPM1.m
+END
+timeit.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/timeit.m
+END
+mkStochastic.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/mkStochastic.m
+END
+subv2ind.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/subv2ind.m
+END
+factorialln.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/factorialln.m
+END
+synthesizeData.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/synthesizeData.m
+END
+entropy.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/entropy.m
+END
+compileAndRun.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/compileAndRun.m
+END
+myProcessOptions.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/myProcessOptions.m
+END
+normalize.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/normalize.m
+END
+foptions.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/foptions.m
+END
+circle.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/circle.m
+END
+mkSymmetric.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/mkSymmetric.m
+END
+sampleDiscrete.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/sampleDiscrete.m
+END
+multiSigmoid.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/multiSigmoid.m
+END
+publishMethod.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/publishMethod.m
+END
+isConverged.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/isConverged.m
+END
+makeExampleDirStructure.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/makeExampleDirStructure.m
+END
+sentenceToWordCount.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/sentenceToWordCount.m
+END
+meanSquaredError.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/meanSquaredError.m
+END
+bioToolboxInstalled.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/bioToolboxInstalled.m
+END
+choose.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/choose.m
+END
+setdiag.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/setdiag.m
+END
+copyStatic.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/copyStatic.m
+END
+restoreSeed.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/restoreSeed.m
+END
+mkDiagDominant.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/mkDiagDominant.m
+END
+findVisHid.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/findVisHid.m
+END
+children.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/children.m
+END
+javaTable.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/javaTable.m
+END
+gaussCondition.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/gaussCondition.m
+END
+compareGraphs.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/compareGraphs.m
+END
+ind2subv.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/ind2subv.m
+END
+setSeed.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/setSeed.m
+END
+ellipse.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/ellipse.m
+END
+autocorr.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/autocorr.m
+END
+Kfold.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/Kfold.m
+END
+consolidator.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/consolidator.m
+END
+mkUnitNorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/mkUnitNorm.m
+END
+acorr.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/acorr.m
+END
+cv.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/cv.m
+END
+mkDiagDominant2.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/mkDiagDominant2.m
+END
+epsr.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/epsr.m
+END
+wrap.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/wrap.m
+END
+isposdef.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/isposdef.m
+END
+logdet.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/logdet.m
+END
+genRunDemosAll.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/genRunDemosAll.m
+END
+deptoolbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/deptoolbox.m
+END
+compileRunAndSave.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/compileRunAndSave.m
+END
+myndims.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/myndims.m
+END
+cls.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/cls.m
+END
+oneOfK.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/oneOfK.m
+END
+tridiag.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/tridiag.m
+END
+pinvKPM.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/pinvKPM.m
+END
+genRunDemosOld.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/genRunDemosOld.m
+END
+dist2.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/dist2.m
+END
+scalar2Vec.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/scalar2Vec.m
+END
+mkGraphSymmetric.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/mkGraphSymmetric.m
+END
+wwhich.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/wwhich.m
+END
+arrow.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/arrow.m
+END
+sumv.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/sumv.m
+END
+sigmoid.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/sigmoid.m
+END
+myreshape.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/myreshape.m
+END
+oneStdErrorRule.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/oneStdErrorRule.m
+END
+approxeq.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/approxeq.m
+END
+col_sum.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/col_sum.m
+END
+ngramMake.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/ngramMake.m
+END
+dispjoint.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/dispjoint.m
+END
+crossvalidate.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/crossvalidate.m
+END
+partitionData.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/partitionData.m
+END
+ngram.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/ngram.m
+END
+genRunDemos1.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/genRunDemos1.m
+END
+sqdist.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/sqdist.m
+END
+lookupIndices.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/lookupIndices.m
+END
+invpsi.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/invpsi.m
+END
+argmin.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/argmin.m
+END
+gaussianConditioning.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/gaussianConditioning.m
+END
+argmax.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/argmax.m
+END
+PMTKroot.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/PMTKroot.m
+END
+mysize.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/statlearn/!svn/ver/405/projects/emtUtils/mysize.m
+END

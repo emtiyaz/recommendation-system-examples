@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils
+END
+jebara.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/jebara.m
+END
+logsumexpbnd_optim_improved.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/logsumexpbnd_optim_improved.m
+END
+max_arbp_obj_disc.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/max_arbp_obj_disc.m
+END
+first.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/first.m
+END
+first_moments.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/first_moments.m
+END
+logodds.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/logodds.m
+END
+logoneplusexp_approx.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/logoneplusexp_approx.m
+END
+digamma.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/digamma.m
+END
+max_arbp_obj_time.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/max_arbp_obj_time.m
+END
+trigamma.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/trigamma.m
+END
+max_arbp_obj2.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/max_arbp_obj2.m
+END
+log_prod_1_plus_exp_min_sum_exp.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/log_prod_1_plus_exp_min_sum_exp.m
+END
+matchrows.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/matchrows.m
+END
+findintervals.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/findintervals.m
+END
+sparsestd.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/sparsestd.m
+END
+logistic_transfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/logistic_transfo.m
+END
+logistic.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/logistic.m
+END
+softmax_transfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/softmax_transfo.m
+END
+logsumexpbnd_optim.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/logsumexpbnd_optim.m
+END
+eigdec.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/eigdec.m
+END
+log_int_exp_quad.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/log_int_exp_quad.m
+END
+max_arbp_obj_old.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/max_arbp_obj_old.m
+END
+softmax.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/softmax.m
+END
+allcombi.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/allcombi.m
+END
+allcombicell.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/allcombicell.m
+END
+apply_quadratic.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/apply_quadratic.m
+END
+logsumexp.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/logsumexp.m
+END
+entropy_bnd.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/entropy_bnd.m
+END
+max_arbp_obj.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/max_arbp_obj.m
+END
+logistic_transfo_inv.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/logistic_transfo_inv.m
+END
+logoneplusexp_bnd.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/logoneplusexp_bnd.m
+END
+softmax_transfo_inv.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/softmax_transfo_inv.m
+END
+ind2sub_sym.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/ind2sub_sym.m
+END
+logsum_obj.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/logsum_obj.m
+END
+log_exp_min_one.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/log_exp_min_one.m
+END
+cauchy_bnd_poly.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/cauchy_bnd_poly.m
+END
+logoneplusexp.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/logoneplusexp.m
+END
+sparsecov.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/sparsecov.m
+END
+entrop.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/entrop.m
+END
+logoneplusexp2_bnd.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/logoneplusexp2_bnd.m
+END
+logexpminusoneovx.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/logexpminusoneovx.m
+END
+logsumexpbnd_poly.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/logsumexpbnd_poly.m
+END
+max_logsum.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/max_logsum.m
+END
+fpart.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/fpart.m
+END
+logsumexp_deriv.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/logsumexp_deriv.m
+END
+logoneplusexpabs_bnd.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/logoneplusexpabs_bnd.m
+END
+pack_state.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/pack_state.m
+END
+softmax_vec.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/softmax_vec.m
+END
+lambd.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/lambd.m
+END
+uniquerows.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/uniquerows.m
+END
+unpack_state.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/unpack_state.m
+END
+logsoftmax.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/statlearn/!svn/ver/405/projects/guillaumeUtils/logsoftmax.m
+END
